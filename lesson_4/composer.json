@@ -1,0 +1,12 @@
+{
+    "name": "anatol/gbphp",
+    "authors": [
+        {
+            "name": "anatol",
+            "email": "kostyrenkoaa@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
